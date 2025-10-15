@@ -1,0 +1,130 @@
+# LaTeX временные файлы
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.tdo
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.figlist
+*.makefile
+*.fls
+*.fdb_latexmk
+*.auxlock
+*.bbl
+*.bcf
+*.blg
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.loa
+*.lol
+*.run.xml
+*.synctex.gz
+*.synctex(busy)
+*.pdfsync
+*.tex.bak
+*.tex.swo
+*.tex.swp
+
+# PDF файлы (исключаем сгенерированные)
+*.pdf
+
+# Python временные файлы
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS файлы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Данные (если большие)
+data/
+*.csv
+*.json
+*.pkl
+
+# Результаты анализа
+results/
+output/
+plots/
+figures/
+
+# Кэш
+.cache/
+.pytest_cache/
